@@ -44,6 +44,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## LT(Lightning Talk)
 
+- [ExCellaのこれまでとこれから](https://speakerdeck.com/maruta/about-excella-jjug-ccc-2019-fall) Takayuki Maruyama
 
 
 ## 参加しましたブログ
