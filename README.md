@@ -36,6 +36,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 ## 17:45-18:30
 
 - [【C+D】Swagger ではない OpenAPI Specification 3.0 による API サーバー開発](https://www.slideshare.net/techblogyahoo/swagger-openapi-specification-30-api) Tetsuya Morimoto
+- [【G+H】DIコンテナ入門](https://backpaper0.github.io/ghosts/dicontainer/) うらがみ
 
 
 ## 
