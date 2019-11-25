@@ -8,6 +8,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
 
 ## 11:00-11:45
+- [【C+D】 入門 例外](https://github.com/mike-neck/practical-exception) もちだ([@mike_neck](https://twitter.com/mike_neck))
 - [ [I] Jakarta EE: Today and Tomorrow](https://www.slideshare.net/DmitryKornilov/jakarta-ee-today-and-tomorrow) Dmitry Kornilov
 
 ## 12:00-12:45
