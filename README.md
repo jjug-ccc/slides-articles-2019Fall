@@ -28,7 +28,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 - [【C+D】こわくないソースコードリーディング生活](https://speakerdeck.com/rshindo/jjug-ccc-2019-fall) Ryo Shindo
 - [【E+F】AngularとSpring Bootで作るSPA + RESTful Web Serviceアプリケーション](https://www.slideshare.net/ssuser070fa9/angularspring-bootspa-restful-web-service) Tada Masatoshi & Masato Kikuchi
-- - [【M】Where is my cache? Architectural patterns for caching microservices by example](https://www.slideshare.net/RafaLeszko/where-is-my-cachearchitectural-patterns-for-caching-microservices-by-example) Rafał Leszko
+- [【M】Where is my cache? Architectural patterns for caching microservices by example](https://www.slideshare.net/RafaLeszko/where-is-my-cachearchitectural-patterns-for-caching-microservices-by-example) Rafał Leszko
 
 ## 16:45-17:30
 
