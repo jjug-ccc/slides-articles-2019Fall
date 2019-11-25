@@ -25,6 +25,8 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## 15:45-16:30
 
+- [【C+D】こわくないソースコードリーディング生活](https://speakerdeck.com/rshindo/jjug-ccc-2019-fall) Ryo Shindo
+
 
 ## 16:45-17:30
 
