@@ -20,7 +20,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## 14:30-15:15
 
-
+- [【I】Micronautで始めるServer Side Kotlin](https://speakerdeck.com/bulbulpaul/micronaut-deshi-meru-server-side-kotlin) ポール
 
 
 ## 15:45-16:30
