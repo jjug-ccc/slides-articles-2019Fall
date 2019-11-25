@@ -9,6 +9,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【I】GraalVM, PicocliとJavaでときめくネイティブコマンドラインアプリを作ろう](https://remkop.github.io/presentations/20191123/) Remko Popma
 
 ## 11:00-11:45
+- [【C+D】 入門 例外](https://github.com/mike-neck/practical-exception) もちだ([@mike_neck](https://twitter.com/mike_neck))
 - [ [I] Jakarta EE: Today and Tomorrow](https://www.slideshare.net/DmitryKornilov/jakarta-ee-today-and-tomorrow) Dmitry Kornilov
 
 ## 12:00-12:45
