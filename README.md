@@ -15,6 +15,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 
 ## 13:30-14:15
+- [【I】 Javaで学ぶネットワークプログラミングの基礎](https://www.slideshare.net/navekazu/java-197255180) 渡邉一夫
 
 
 
