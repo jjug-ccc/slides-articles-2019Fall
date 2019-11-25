@@ -5,7 +5,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【E+F】 日本Javaユーザーグループ 年次総会](https://ここにスライドURLを入れてね) JJUG幹事
 
 ## 10:00-10:45
-
+- [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
 
 ## 11:00-11:45
 
