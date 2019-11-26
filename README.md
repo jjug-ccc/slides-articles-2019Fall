@@ -6,7 +6,9 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## 10:00-10:45
 - [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
+- [【G+H】Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://qiita.com/opengl-8080/items/c482998fa15ce738e2ba) opengl-8080
 - [【I】GraalVM, PicocliとJavaでときめくネイティブコマンドラインアプリを作ろう](https://remkop.github.io/presentations/20191123/) Remko Popma
+
 
 ## 11:00-11:45
 - [【C+D】 入門 例外](https://github.com/mike-neck/practical-exception) もちだ([@mike_neck](https://twitter.com/mike_neck))
