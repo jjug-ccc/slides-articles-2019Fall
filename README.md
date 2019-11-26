@@ -53,6 +53,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## 16:45-17:30
 - [【A+B】新卒3年目が立ち向かった、お名前.comでの超巨大レガシーシステム脱却の事例](https://www.slideshare.net/TakamchiTanaka/example-of-exiting-legacy-system) 田中 高進
+- [【A+B】オレ流OpenJDK「の」開発環境](https://www.slideshare.net/nttdata-tech/openjdk-mystyle-development-build-environment-nttdata-suenaga) 末永 恭正
 - [【C+D】JavaでTracing](https://speakerdeck.com/16yuki0702/distributed-tracing-at-jjug-ccc-2019-fall) 笹川 博幸
 - [【E+F】JVM入門 -Javaプログラムが動く仕組み-](https://speakerdeck.com/sammy7th/jvmru-men-javapuroguramugadong-kushi-zu-mi) Abe Asami (きの子)
 - [【G+H】Serverless時代のJavaについて](https://www.slideshare.net/AmazonWebServicesJapan/serverlessjava) 下川　賢介
