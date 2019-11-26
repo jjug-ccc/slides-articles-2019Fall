@@ -24,6 +24,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 ## 14:30-15:15
 
 - [【I】Micronautで始めるServer Side Kotlin](https://speakerdeck.com/bulbulpaul/micronaut-deshi-meru-server-side-kotlin) ポール
+- [【M】JavaオンプレシステムをAKS + Quarkusに移行した話](https://speakerdeck.com/takaichi00/jjug-ccc-2019-fall-javaonpuresisutemuwoaks-plus-quarkusniyi-xing-sitahua) 髙市 智章 (Takaichi Tomoaki)
 
 
 ## 15:45-16:30
