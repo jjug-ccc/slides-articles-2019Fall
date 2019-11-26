@@ -9,13 +9,13 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【C+D】Head toward Java 13 and Java 14](https://www.slideshare.net/YujiKubota/head-toward-java-13-and-java-14-jjug) KUBOTA Yuji
 - [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
 - [【G+H】Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://qiita.com/opengl-8080/items/c482998fa15ce738e2ba) opengl-8080
-- [【I】JavaとGraalVMとPicocliで、ときめくネイティブコマンドラインアプリを作ろう](https://remkop.github.io/presentations/20191123/index.html) Remko Popma
+- [【I】GraalVM, PicocliとJavaでときめくネイティブコマンドラインアプリを作ろう](https://remkop.github.io/presentations/20191123/) Remko Popma
 - [【M】BigQueryを用いたデータ分析基盤作成入門](https://speakerdeck.com/currylike37/bigquerywoyong-ita-detafen-xi-ji-pan-zuo-cheng-ru-men) Kotaro Nishiyama
 
 
 ## 11:00-11:45
 - [【A+B】Javaで学ぶオブジェクト指向プログラミングの基礎知識](https://www.slideshare.net/masuda220/java-objectoriented-programming-primer) 増田　亨
-- [【C+D】入門 例外](https://github.com/mike-neck/practical-exception) 持田真哉
+- [【C+D】 入門 例外](https://github.com/mike-neck/practical-exception) もちだ([@mike_neck](https://twitter.com/mike_neck))
 - [【G+H】Javaプログラマのための頑張らないGo入門](https://www.slideshare.net/yyyank/javago) yy_yank
 - [【I】Jakarta EE: Today and Tomorrow](https://www.slideshare.net/DmitryKornilov/jakarta-ee-today-and-tomorrow) Dmitry Kornilov
 - [【L】Gradle Ex Machina](https://www.slideshare.net/aalmiray/gradle-ex-machina-devoxx-2019) Andres Almiray
@@ -47,6 +47,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【C+D】こわくないソースコードリーディング生活](https://speakerdeck.com/rshindo/jjug-ccc-2019-fall) Ryo Shindo
 - [【E+F】AngularとSpring Bootで作るSPA + RESTful Web Serviceアプリケーション](https://www.slideshare.net/ssuser070fa9/angularspring-bootspa-restful-web-service) Tada Masatoshi & Masato Kikuchi
 - [【G+H】Javaの起動速度といかに戦うか](https://speakerdeck.com/kishida/how-to-fight-against-java-warmup-time) きしだ なおき
+- [【M】Where is my cache? Architectural patterns for caching microservices by example](https://www.slideshare.net/RafaLeszko/where-is-my-cachearchitectural-patterns-for-caching-microservices-by-example) Rafał Leszko
 
 
 ## 16:45-17:30
