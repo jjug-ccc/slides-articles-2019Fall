@@ -32,6 +32,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【E+F】開け！ドメイン駆動設計の扉](https://twitter.com/nrslib/status/1198041328250023937) 成瀬　允宣
 - [【G+H】Mavenの真実とウソ](https://www.slideshare.net/kawasima/maven-196821326) 川島義隆
 - [【I】Javaで学ぶネットワークプログラミングの基礎](https://www.slideshare.net/navekazu/java-197255180) 渡邉一夫
+- [【M】運用を支えるためのログを出すにはどうするか？](https://speakerdeck.com/wreulicke/yun-yong-wozhi-erutamefalseroguwochu-sunihadousuruka-number-jjug-ccc-number-ccc-m3) 齋藤将也
 
 
 ## 14:30-15:15
