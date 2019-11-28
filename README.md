@@ -6,6 +6,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 
 ## 10:00-10:45
 - [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
+- [【M】BigQueryを用いたデータ分析基盤作成入門](https://speakerdeck.com/currylike37/bigquerywoyong-ita-detafen-xi-ji-pan-zuo-cheng-ru-men)
 
 ## 11:00-11:45
 - [ [I] Jakarta EE: Today and Tomorrow](https://www.slideshare.net/DmitryKornilov/jakarta-ee-today-and-tomorrow) Dmitry Kornilov
