@@ -7,7 +7,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 ## 10:00-10:45
 - [【A+B】試して学ぼう、Java EE アプリケーションをOpenShift(Minishift)でデプロイ！](https://www.slideshare.net/osonoi1/javaminishift20191123) 小薗井康志
 - [【C+D】Head toward Java 13 and Java 14](https://www.slideshare.net/YujiKubota/head-toward-java-13-and-java-14-jjug) KUBOTA Yuji
-- [【E+F】All people are VIP～Disney哲学から考えるDiversity](https://bit.ly/ccc-e1/maaya) Maaya Ishida
+- [【E+F】All people are VIP～Disney哲学から考えるDiversity](http://bit.ly/ccc-e1-maaya) Maaya Ishida
 - [【G+H】Gradle を完全に理解した人が、何も分からなくなるための第一歩](https://qiita.com/opengl-8080/items/c482998fa15ce738e2ba) opengl-8080
 - [【I】GraalVM, PicocliとJavaでときめくネイティブコマンドラインアプリを作ろう](https://remkop.github.io/presentations/20191123/) Remko Popma
 - [【M】BigQueryを用いたデータ分析基盤作成入門](https://speakerdeck.com/currylike37/bigquerywoyong-ita-detafen-xi-ji-pan-zuo-cheng-ru-men) Kotaro Nishiyama
