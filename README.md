@@ -85,6 +85,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [JJUG CCC 2019 Fall で発表した #jjug_ccc - mike-neckのブログ](https://mike-neck.hatenadiary.com/entry/2019/11/24/234604)
 - [JJUG CCC 2019 Fall ( #jjug_ccc ) - セッション資料の一覧 - 地平線に行く](https://yujisoftware.hatenablog.com/entry/2019/11/24/021848)
 - [JJUG CCC 2019 Fallに行ってみた - Qiita](https://qiita.com/neoti0_tech/items/6a0cd42562c06d8b7232)
+- [JavaのカンファレンスなのにGoのお話をしてきました(JJUG CCC 2019 Fall) #jjug_ccc - プログラマのはしくれダイアリー](https://yyyank.blogspot.com/2019/11/javagojjug-ccc-2019-fall-jjugccc.html)
 
 
 ## togetter
