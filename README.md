@@ -57,7 +57,7 @@ JJUG CCC 2019 Fall 登壇資料まとめ
 - [【A+B】オレ流OpenJDK「の」開発環境](https://www.slideshare.net/nttdata-tech/openjdk-mystyle-development-build-environment-nttdata-suenaga) 末永 恭正
 - [【C+D】JavaでTracing](https://speakerdeck.com/16yuki0702/distributed-tracing-at-jjug-ccc-2019-fall) 笹川 博幸
 - [【E+F】JVM入門 -Javaプログラムが動く仕組み-](https://speakerdeck.com/sammy7th/jvmru-men-javapuroguramugadong-kushi-zu-mi) Abe Asami (きの子)
-- [【G+H】Serverless時代のJavaについて](https://www.slideshare.net/AmazonWebServicesJapan/serverlessjava) 下川　賢介
+- [【G+H】Serverless時代のJavaについて](https://www.slideshare.net/AmazonWebServicesJapan/serverlessjava-199195000) 下川　賢介
 - [【I】多言語対応の仮想マシンGraalVMが照らす未来](https://www.slideshare.net/jyukutyo/guide-to-graalvm-jjug-ccc-2019-fall) 阪田 浩一
 - [【M】Evaluating ZGC with HBase](https://speakerdeck.com/line_developers/evaluating-zgc-with-hbase) 吉田真也
 
